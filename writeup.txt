@@ -1,0 +1,18 @@
+Git Repo URL: https://github.com/Nader27/simplLearn-JFSD22-Phase2.git
+-----------------------------------------------------------------------------------
+Sprint[1] ==> Duration 1 week
+	- Working on the design and the flow of the project.
+	- Working on design the schema of Database and find the relationships between the tables.
+	- Create the Database and the tables.
+	- Working on the code of JSP frontend files files.
+-----------------------------------------------------------------------------------
+Sprint[2] ==> Duration 2 week
+	- Create the class connection with Database and validate the connection.
+	- Testing the SQL quires and vlidate it fetch/insert/update are working fine.
+	- Coding the Backend Servlets and mapping it with its JSP files.
+	- Create HTTP session to remain session parameters.
+-----------------------------------------------------------------------------------
+Sprint[3] ==> Duration 1 week
+	- Working on Enhance the code and fix some bugs and errors.
+	- Create Hibernate Integration.
+	- Refactor Code to DTO Design Pattern.
